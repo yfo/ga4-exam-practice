@@ -169,8 +169,8 @@ export const questions: Question[] = [
       "使用自訂功能來編輯內建報表。",
       "以新的主要維度建立探索。"
     ],
-    correctAnswer: "選擇新的主要維度。",
-    explanation: "在報表表格上方，使用者可以直接點擊下拉選單來切換並選擇新的主要維度。"
+    correctAnswer: "使用自訂功能來編輯內建報表。",
+    explanation: "在報表表格右上方，點擊自訂編輯。"
   },
   {
     id: "Q14",
@@ -418,7 +418,7 @@ export const questions: Question[] = [
       "應該使用網頁標題與畫面類別。",
       "應該使用工作階段來源/媒介。"
     ],
-    correctAnswer: "應該使用工作階段主要管道群組 (預設管道群組)（註：部分版本若有「來源/媒介」選項亦可，但在本題組中首選此項）",
+    correctAnswer: "應該使用工作階段主要管道群組 (預設管道群組)。",
     explanation: "「預設管道群組」會自動將流量歸類為自然搜尋 (Organic Search)、參照連結 (Referral) 等高層級類別。"
   },
   // --- 第五部分：進階功能、AI 與整合 ---
@@ -641,8 +641,8 @@ export const questions: Question[] = [
       "使用項目名稱、裝置類別、日期。",
       "使用 OS 版本、作業系統與版本、重要事件。"
     ],
-    correctAnswer: "使用項目名稱、裝置類別、日期。",
-    explanation: "「日期」可協助確認問題發生的時間點，「裝置類別」可排查是否為特定裝置的問題。"
+    correctAnswer: "使用國家/地區、OS 版本、作業系統與版本。",
+    explanation: "使用國家/地區、OS 版本、作業系統與版本。"
   },
   {
     id: "Q50",
